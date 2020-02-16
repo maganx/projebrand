@@ -1,4 +1,4 @@
-runtime: other
+runtime: html5
 api_version: 1
 threadsafe: true
 
